@@ -127,17 +127,21 @@ Then run the `scripts/run_shapespace.sh` script within the `shapespace/` folder.
 
 Thanks to the [SIREN codebase](https://github.com/vsitzmann/siren) and the [IGR](https://github.com/amosgropp/IGR)/[SAL](https://github.com/amosgropp/IGR) codebases off whom we built upon. 
 
+
+This work was funded by the European Union’s Marie Skłodowska-Curie Actions Individual Global Fellowship (MSCA-IF-GF) “3DInAction - DLV-893465”
+
 ## License and Citation
 
 If you find our work useful in your research, please cite our paper:
 
 [Preprint](http://arxiv.org/abs/2106.10811):
 ```bibtex
-@article{ben2021digs,
-  title = {DiGS: Divergence guided shape implicit neural representation for unoriented point clouds},
-  author = {Ben-Shabat, Yizhak and Hewa Koneputugodage, Chamin and Gould, Stephen},
-  journal = {arXiv preprint arXiv:2106.10811},
-  year = {2021}
+@inproceedings{ben2022digs,
+  title={Digs: Divergence guided shape implicit neural representation for unoriented point clouds},
+  author={Ben-Shabat, Yizhak and Koneputugodage, Chamin Hewa and Gould, Stephen},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={19323--19332},
+  year={2022}
 }
 ```
 
