@@ -128,7 +128,8 @@ Then run the `scripts/run_shapespace.sh` script within the `shapespace/` folder.
 Thanks to the [SIREN codebase](https://github.com/vsitzmann/siren) and the [IGR](https://github.com/amosgropp/IGR)/[SAL](https://github.com/amosgropp/IGR) codebases off whom we built upon. 
 
 
-This work was funded by the European Union’s Marie Skłodowska-Curie Actions Individual Global Fellowship (MSCA-IF-GF) “3DInAction - DLV-893465”
+This project has received funding from the European Union's Horizon 2020 research and innovation
+programme under the Marie Sklodowska-Curie grant agreement No 893465.
 
 ## License and Citation
 
