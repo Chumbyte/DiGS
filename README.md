@@ -137,8 +137,8 @@ If you find our work useful in your research, please cite our paper:
 [Preprint](http://arxiv.org/abs/2106.10811):
 ```bibtex
 @inproceedings{ben2022digs,
-  title={Digs: Divergence guided shape implicit neural representation for unoriented point clouds},
-  author={Ben-Shabat, Yizhak and Koneputugodage, Chamin Hewa and Gould, Stephen},
+  title={DiGS: Divergence guided shape implicit neural representation for unoriented point clouds},
+  author={Ben-Shabat, Yizhak and Hewa Koneputugodage, Chamin and Gould, Stephen},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   pages={19323--19332},
   year={2022}
